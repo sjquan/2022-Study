@@ -23,7 +23,7 @@ When | Who | What | Links | Issue # | Etc.
 10/25 |
 11/1 |
 11/8 |
-11/15 |
+11/15 | 이제민 | PTQ4ViT: Post-Training Quantization for Vision Transformers with Twin Uniform Quantization (ECCV'22) | https://arxiv.org/pdf/2111.12293.pdf | #3 | -
 11/22 |
 11/29 |
 12/6 |
